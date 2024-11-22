@@ -64,3 +64,5 @@ form?.addEventListener('submit', (e) => {
     }
     window.location.href = "./resume/index.html";
 });
+
+  
